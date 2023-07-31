@@ -18,3 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderkinght&show_icons=true&locale=en" alt="thunderkinght" /></p>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/thunderkinght/thunderkinght/blob/output/github-contribution-grid-snake.svg)
+
