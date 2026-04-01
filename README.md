@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Mhatre</h1>
-<h3 align="center">A Developer</h3>
+<h3 align="center">A Supply Chain Analyst</h3>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning Automobile Industry 
 
 - 📫 How to reach me **mhatreajinkya02@gmail.com**
 
